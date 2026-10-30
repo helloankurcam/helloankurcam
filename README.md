@@ -35,9 +35,9 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 | 1 | [Handshake migration: data preservation, Fabric lakehouse and 64-dashboard rebuild](#1-handshake-migration-data-preservation-fabric-lakehouse-and-64-dashboard-rebuild) | SQL, Fabric Lakehouse, pipelines, Power BI, DAX | ✅ Done |
 | 2 | [Year-on-year reporting framework](#2-year-on-year-reporting-framework) | Power Query, DAX, research methods | ✅ Done |
 | 3 | [AI-assisted job posting screening](#3-ai-assisted-job-posting-screening) | Python, REST API, LLM, statistics | ✅ Done |
-| 4 | [Team request portal](#4-team-request-portal) | Microsoft Forms, Power Automate, SharePoint, Outlook | ✅ Done |
+| 4 | [Data and Digital Services request portal](#4-team-request-portal) | Microsoft Forms, Power Automate, SharePoint, Outlook | ✅ Done |
 | 5 | [Operations dashboard for senior executives](#5-operations-dashboard-for-senior-executives) | Power BI, DAX, Power Automate | ✅ Done |
-| 6 | [Casework system modernisation](#6-casework-system-modernisation-access--dataverse) | Dataverse, Power Apps, Access VBA, REST API | 🟡 In progress |
+| 6 | [Development of Casework Management System](#6-casework-system-modernisation-access--dataverse) | Dataverse, Power Apps, Access VBA, REST API | 🟡 In progress |
 | 7 | [Operational Value Index for UK higher education](#7-operational-value-index-for-uk-higher-education) | Research, risk modelling | 🟡 In progress |
 
 > These are workplace projects. Code and data are internal, so each is shared as a write-up of the problem, approach and outcome, with no confidential data.
