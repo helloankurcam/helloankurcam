@@ -33,7 +33,8 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 | # | Project | Stack | Status |
 |---|---------|-------|--------|
 | 1 | [Handshake migration: data preservation, Fabric lakehouse and 64-dashboard rebuild](#1-handshake-migration-data-preservation-fabric-lakehouse-and-64-dashboard-rebuild) | SQL, Fabric Lakehouse, pipelines, Power BI, DAX | ✅ Done |
-| 2 | [Year-on-year reporting framework](#2-year-on-year-reporting-framework) | Power Query, DAX, research methods | ✅ Done |
+| 2 | [Year-on-year reporting framework](#2-year-on-year-reporting-framework) | Power Query, DAX, research methods | 🟡 In progress |
+|
 | 3 | [AI-assisted job posting screening](#3-ai-assisted-job-posting-screening) | Python, REST API, LLM, statistics | ✅ Done |
 | 4 | [Data and Digital Services request portal](#4-team-request-portal) | Microsoft Forms, Power Automate, SharePoint, Outlook | ✅ Done |
 | 5 | [Operations dashboard for senior executives](#5-operations-dashboard-for-senior-executives) | Power BI, DAX, Power Automate | ✅ Done |
