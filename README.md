@@ -91,7 +91,7 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 
 ---
 
-## 4. Team request portal
+## 4. Data and Digital services request portal
 
 **Problem:** Requests to the team arrived by scattered emails, with attachments landing in personal inboxes and OneDrive.
 
@@ -120,7 +120,7 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 
 ---
 
-## 6. Casework system modernisation (Access → Dataverse)
+## 6. Development of Case management system (Access → Dataverse)
 
 **Problem:** A university casework team had run case management on the same legacy setup for about 10 years: survey forms, a Microsoft Access database, per-case SharePoint folders and mail-merge letters. Data was duplicated across tools, ten intake forms each had different structures, and the database suffered file-locking with multiple users. Moving to a modern platform meant carrying a decade of case history with it.
 
@@ -150,7 +150,8 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 - **Open-source Python pipeline:** API → pandas → SQL → Power BI on public data, so the code behind my workplace projects can be shown in the open
 
 ---
-
+## Notes:
+There are few other projects which are currently inline and I will update them shortly.
 ## Get in touch
 
 Open to **BI Developer, Analytics Engineer and Data Engineer** roles in the UK. The quickest way to reach me is by texting me on teams as3827@cam.ac.uk.
