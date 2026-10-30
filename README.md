@@ -154,4 +154,4 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 There are few other projects which are currently inline and I will update them shortly.
 ## Get in touch
 
-Open to **BI Developer, Systems and Data Analyst, Analytics Engineer and Data Engineer** roles in the UK. The quickest way to reach me is by texting me on teams as3827@cam.ac.uk.
+Open to **BI Developer, Data Scientist, Systems and Data Analyst, Analytics Engineer and Data Engineer** roles in the UK. The quickest way to reach me is by texting me on teams as3827@cam.ac.uk.
