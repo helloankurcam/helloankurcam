@@ -6,7 +6,7 @@
 
 I take messy, multi-source operational data, from legacy spreadsheets to live system feeds, and turn it into reliable, automated reporting. My work spans the Microsoft data stack end to end: Fabric lakehouses and SQL at the back, Power Automate pipelines in the middle, and Power BI at the front, with Python and LLM APIs where they fit.
 
-📍 Cambridge, UK · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · ✉️ your.email@example.com
+📍 Cambridge, UK · ✉️ as3827@cam.ac.uk/ ankur11sharma25@gmail.com
 
 ---
 
