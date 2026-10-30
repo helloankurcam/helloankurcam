@@ -1,6 +1,6 @@
 <!-- Profile README: create a public repo named exactly as your GitHub username and paste this in as README.md -->
 
-# Hi, I'm Ankur 👋
+# Hi, I'm Ankur 
 
 **Research & Data Analyst at the University of Cambridge** · building data platforms, dashboards and automation that replace manual processes in higher education.
 
@@ -144,13 +144,13 @@ I take messy, multi-source operational data, from legacy spreadsheets to live sy
 
 ---
 
-## 🔭 Next up
+##  Next up
 
 - **Public-data SQL project:** a modelled SQL database on HESA open data, with analytical queries, published here with full code
 - **Open-source Python pipeline:** API → pandas → SQL → Power BI on public data, so the code behind my workplace projects can be shown in the open
 
 ---
 
-## 📫 Get in touch
+## Get in touch
 
-Open to **BI Developer, Analytics Engineer and Data Engineer** roles in the UK. The quickest way to reach me is [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE).
+Open to **BI Developer, Analytics Engineer and Data Engineer** roles in the UK. The quickest way to reach me is by texting me on teams as3827@cam.ac.uk.
